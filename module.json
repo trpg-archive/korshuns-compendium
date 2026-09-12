@@ -174,7 +174,7 @@
         {
             "name": "magicheskie-predmety",
             "label": "Магические предметы",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_magic_items.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_magical_items.png",
             "path": "packs/magicheskie-predmety",
             "type": "Item",
             "system": "dnd5e",
@@ -186,7 +186,7 @@
         {
             "name": "zelya",
             "label": "Зелья",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_potion.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_potions.png",
             "path": "packs/zelya",
             "type": "Item",
             "system": "dnd5e",
@@ -198,7 +198,7 @@
         {
             "name": "oruzhie",
             "label": "Оружие",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_weapon.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_weapons.png",
             "path": "packs/oruzhie",
             "type": "Item",
             "ownership": {
