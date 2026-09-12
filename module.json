@@ -1,17 +1,21 @@
 {
     "id": "korshuns-compendium",
+    "type": "module",
     "title": "🐺Shared compendium🦅",
-    "description": "<p>Модуль, который пытается собрать в себе настроенные для игры вещи. Пока что это предметы, заклинания и монстры.</p>",
-    "version": "1.0.17",
+    "description": "<p>Коллекция настроенных материалов для D&D 5e: персонажи, заклинания, предметы, существа и справочные материалы для игры в Foundry VTT.</p>",
+    "version": "1.0.18",
     "authors": [
         {
             "name": "SnowKorshun",
-            "discord": "snowkorshun",
-            "flags": {}
+            "discord": "snowkorshun"
         }
     ],
+    "url": "https://github.com/trpg-archive/korshuns-compendium",
+    "readme": "https://github.com/trpg-archive/korshuns-compendium/blob/main/README.md",
+    "bugs": "https://github.com/trpg-archive/korshuns-compendium/issues",
+    "changelog": "https://github.com/trpg-archive/korshuns-compendium/releases",
     "compatibility": {
-        "minimum": "12",
+        "minimum": "13",
         "verified": "14"
     },
     "packFolders": [
@@ -20,15 +24,15 @@
             "sorting": "m",
             "color": "#113ea6",
             "folders": [
-				{
+                {
                     "name": "Для игроков",
                     "sorting": "m",
-					"color": "#C9265F",
+                    "color": "#C9265F",
                     "folders": [
-						{
+                        {
                             "name": "Персонажи",
                             "sorting": "m",
-							"color": "#fe0058",
+                            "color": "#fe0058",
                             "packs": [
                                 "klassy-i-podklassy",
                                 "rasy",
@@ -40,7 +44,7 @@
                         {
                             "name": "Заклинания",
                             "sorting": "m",
-							"color": "#b80040",
+                            "color": "#b80040",
                             "packs": [
                                 "zaklinaniya",
                                 "prizyvnye-sushnosti"
@@ -50,7 +54,7 @@
                         {
                             "name": "Предметы",
                             "sorting": "m",
-							"color": "#8E0032",
+                            "color": "#8E0032",
                             "packs": [
                                 "snaryazhenie",
                                 "magicheskie-predmety",
@@ -69,12 +73,12 @@
                 {
                     "name": "Ширма Мастера",
                     "sorting": "m",
-					"color": "#A0189C",
+                    "color": "#A0189C",
                     "folders": [
-						{
+                        {
                             "name": "Бестиарий",
                             "sorting": "m",
-							"color": "#750072",
+                            "color": "#750072",
                             "packs": [
                                 "bestiarij",
                                 "osobennosti-monstrov"
@@ -84,7 +88,7 @@
                         {
                             "name": "Справочник",
                             "sorting": "m",
-							"color": "#4C004A",
+                            "color": "#4C004A",
                             "packs": [
                                 "shirma-mastera",
                                 "tablitsy"
@@ -174,7 +178,7 @@
         {
             "name": "magicheskie-predmety",
             "label": "Магические предметы",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_magical_items.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_magic_items.png",
             "path": "packs/magicheskie-predmety",
             "type": "Item",
             "system": "dnd5e",
@@ -186,7 +190,7 @@
         {
             "name": "zelya",
             "label": "Зелья",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_potions.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_potion.png",
             "path": "packs/zelya",
             "type": "Item",
             "system": "dnd5e",
@@ -198,7 +202,7 @@
         {
             "name": "oruzhie",
             "label": "Оружие",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_weapons.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_weapon.png",
             "path": "packs/oruzhie",
             "type": "Item",
             "ownership": {
@@ -305,30 +309,35 @@
         }
     ],
     "manifest": "https://github.com/trpg-archive/korshuns-compendium/releases/latest/download/module.json",
-	"download": "https://github.com/trpg-archive/korshuns-compendium/releases/download/v1.0.17/korshuns-compendium.zip",
+    "download": "https://github.com/trpg-archive/korshuns-compendium/releases/download/v1.0.18/korshuns-compendium.zip",
     "relationships": {
-        "requires": [
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "5.2.5",
+                    "verified": "5.3.3"
+                }
+            }
+        ],
+        "recommends": [
             {
                 "id": "ATL",
-                "type": "module",
-                "compatibility": {}
+                "type": "module"
             },
             {
                 "id": "dae",
-                "type": "module",
-                "compatibility": {}
+                "type": "module"
             },
             {
                 "id": "midi-qol",
-                "type": "module",
-                "compatibility": {}
+                "type": "module"
             },
             {
                 "id": "vision-5e",
-                "type": "module",
-                "compatibility": {}
+                "type": "module"
             }
         ]
-    },
-    "flags": {}
+    }
 }
