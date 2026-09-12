@@ -102,7 +102,7 @@
         {
             "name": "shirma-mastera",
             "label": "Ширма Мастера",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_dm_screen.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_dm_screen.png",
             "path": "packs/shirma-mastera",
             "type": "JournalEntry",
             "system": "dnd5e",
@@ -114,7 +114,7 @@
         {
             "name": "tablitsy",
             "label": "Таблицы",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_tables.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_tables.png",
             "path": "packs/tablitsy",
             "type": "RollTable",
             "system": "dnd5e",
@@ -126,7 +126,7 @@
         {
             "name": "bestiarij",
             "label": "Бестиарий",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_bestiary.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_bestiary.png",
             "path": "packs/bestiarij",
             "type": "Actor",
             "system": "dnd5e",
@@ -138,7 +138,7 @@
         {
             "name": "osobennosti-monstrov",
             "label": "Особенности монстров",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_monster_features.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_monster_features.png",
             "path": "packs/osobennosti-monstrov",
             "type": "Item",
             "system": "dnd5e",
@@ -150,7 +150,7 @@
         {
             "name": "zaklinaniya",
             "label": "Заклинания",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_spells.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_spells.png",
             "path": "packs/zaklinaniya",
             "type": "Item",
             "system": "dnd5e",
@@ -162,7 +162,7 @@
         {
             "name": "prizyvnye-sushnosti",
             "label": "Призывные сущности",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_summoned_entities.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_summoned_entities.png",
             "path": "packs/prizyvnye-sushnosti",
             "type": "Actor",
             "system": "dnd5e",
@@ -174,7 +174,7 @@
         {
             "name": "magicheskie-predmety",
             "label": "Магические предметы",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_magic_items.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_magic_items.png",
             "path": "packs/magicheskie-predmety",
             "type": "Item",
             "system": "dnd5e",
@@ -186,7 +186,7 @@
         {
             "name": "zelya",
             "label": "Зелья",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_potion.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_potion.png",
             "path": "packs/zelya",
             "type": "Item",
             "system": "dnd5e",
@@ -198,7 +198,7 @@
         {
             "name": "oruzhie",
             "label": "Оружие",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_weapon.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_weapon.png",
             "path": "packs/oruzhie",
             "type": "Item",
             "ownership": {
@@ -210,7 +210,7 @@
         {
             "name": "dospekhi",
             "label": "Доспехи",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_armor.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_armor.png",
             "path": "packs/dospekhi",
             "type": "Item",
             "ownership": {
@@ -222,7 +222,7 @@
         {
             "name": "instrumenty",
             "label": "Инструменты",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_tools.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_tools.png",
             "path": "packs/instrumenty",
             "type": "Item",
             "system": "dnd5e",
@@ -234,7 +234,7 @@
         {
             "name": "transport",
             "label": "Транспорт",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_transport.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_transport.png",
             "path": "packs/transport",
             "type": "Item",
             "system": "dnd5e",
@@ -246,7 +246,7 @@
         {
             "name": "tovary",
             "label": "Товары",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_goods.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_goods.png",
             "path": "packs/tovary",
             "type": "Item",
             "system": "dnd5e",
@@ -258,7 +258,7 @@
         {
             "name": "rasy",
             "label": "Расы",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_species.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_species.png",
             "path": "packs/rasy",
             "type": "Item",
             "system": "dnd5e",
@@ -270,7 +270,7 @@
         {
             "name": "klassy-i-podklassy",
             "label": "Классы и подклассы",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_classes.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_classes.png",
             "path": "packs/klassy-i-podklassy",
             "type": "Item",
             "system": "dnd5e",
@@ -282,7 +282,7 @@
         {
             "name": "osobennosti-personazhej",
             "label": "Особенности Персонажей",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_feats.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_feats.png",
             "path": "packs/osobennosti-personazhej",
             "type": "Item",
             "system": "dnd5e",
@@ -294,7 +294,7 @@
         {
             "name": "proishozhdeniya",
             "label": "Происхождения",
-            "banner": "https://raw.githubusercontent.com/trpg-archive/DnD/refs/heads/main/Arts/Banners/Banner_backgrounds.png",
+            "banner": "https://raw.githubusercontent.com/trpg-archive/korshuns-compendium/refs/heads/main/Arts/Banners/Banner_backgrounds.png",
             "path": "packs/proishozhdeniya",
             "type": "Item",
             "system": "dnd5e",
