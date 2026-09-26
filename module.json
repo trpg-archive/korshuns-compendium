@@ -3,7 +3,7 @@
     "type": "module",
     "title": "🐺Shared compendium🦅",
     "description": "<p>Коллекция настроенных материалов для D&D 5e: персонажи, заклинания, предметы, существа и справочные материалы для игры в Foundry VTT.</p>",
-    "version": "1.0.18",
+    "version": "1.0.19",
     "authors": [
         {
             "name": "SnowKorshun",
@@ -309,7 +309,7 @@
         }
     ],
     "manifest": "https://github.com/trpg-archive/korshuns-compendium/releases/latest/download/module.json",
-    "download": "https://github.com/trpg-archive/korshuns-compendium/releases/download/v1.0.18/korshuns-compendium.zip",
+    "download": "https://github.com/trpg-archive/korshuns-compendium/releases/download/v1.0.19/korshuns-compendium.zip",
     "relationships": {
         "systems": [
             {
